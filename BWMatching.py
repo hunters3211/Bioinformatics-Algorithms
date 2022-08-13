@@ -1,3 +1,7 @@
+# Given: Integers k, t, and N, followed by a collection of strings Dna.
+
+# Return: The strings BestMotifs resulting from running GibbsSampler(Dna, k, t, N) with 20 random starts
+
 import sys
 
 
