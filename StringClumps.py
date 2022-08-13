@@ -1,3 +1,7 @@
+# Given: A string Genome, and integers k, L, and t.
+
+# Return: All distinct k-mers forming (L, t)-clumps in Genome.
+
 sequence = str(input("Genome:"))
 k = int(input("k:"))
 L = int(input("L:"))
