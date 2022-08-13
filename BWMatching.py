@@ -1,7 +1,8 @@
-# Given: Integers k, t, and N, followed by a collection of strings Dna.
+# Given: A string BWT(Text), followed by a collection of strings Patterns.
 
-# Return: The strings BestMotifs resulting from running GibbsSampler(Dna, k, t, N) with 20 random starts
+# Return: A list of integers, where the i-th integer corresponds to the number of substring matches of the i-th member of Patterns in Text.
 
+Sample Dataset
 import sys
 
 
